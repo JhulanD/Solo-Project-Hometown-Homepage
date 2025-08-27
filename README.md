@@ -1,8 +1,7 @@
 # Solo Project-Hometown-Homepage (HTML-CSS-Scrimba)
 Solo Project-HTML-CSS-Scrimba-Hometown-Homepage
 
-![Project Preview](images/preview.png)  
-*(Replace with your actual screenshot or deployment link)*
+[![Project Preview](https://raw.githubusercontent.com/JhulanD/JhulanD/main/public/HomeTown-Homepage.png)](https://jd-hometown-homepage.netlify.app/)
 
 A simple, responsive homepage built as part of the **Scrimba - Build a Hometown Homepage with HTML & CSS** project.  
 The project focuses on applying **semantic HTML**, **flexbox layouts**, and **basic CSS styling** to create a clean, structured webpage.
